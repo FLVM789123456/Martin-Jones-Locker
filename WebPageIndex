@@ -1,0 +1,26 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<meta charset="utf-8">
+	<meta name="viewpoint", content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="style_temp.css">
+<head>
+	<title>@MJN</title>
+</head>
+	<Body>
+<div class="navbar">
+	<ul>
+	    <li><a href="#">Home</a></li>
+	    <li><a href="#">About Me</a></li>
+	    <li><a href="#">Links</a></li>
+	    <li><a href="#">Contact Me</a></li>
+        <input type="text" placeholder="Search...">
+	</ul>
+</div>
+    <h1 class="header">Martin Jones' Locker</h1>
+<div class="info_card">
+    <p id="introduction">Welcome to the marijuana network; where we discuss marijuana's medicinal and political advantages.<br>
+    Also feel free to share any tips and tricks for growing or smoking weed. There are forums dedicate to everything cannabis related,<br>
+    from cultivating it to cooking with it. You can join an existing forum or create your own.</p>
+</div>
+	</Body>
+</html>
